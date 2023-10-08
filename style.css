@@ -1,0 +1,10 @@
+body {
+  font-size: 50px;
+}
+
+a {
+  all: unset;
+  background-color: bisque;
+  color: brown;
+  font-family: "Courier New", Courier, monospace;
+}
